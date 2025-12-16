@@ -1,6 +1,6 @@
 appName: frontend
-appImage: gcr.io/google-samples/microservices-demo/frontend
-appVersion: v0.8.0
+appImage: docker.io/c0dysharma/frontend
+appVersion: 2
 appReplicas: 2
 containerPort: 8080
 containerEnvVars: 
