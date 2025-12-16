@@ -1,6 +1,6 @@
 appName: paymentservice
-appImage: gcr.io/google-samples/microservices-demo/paymentservice
-appVersion: v0.8.0
+appImage: docker.io/c0dysharma/paymentservice
+appVersion: 2
 appReplicas: 2
 containerPort: 50051
 containerEnvVars: 
