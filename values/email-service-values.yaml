@@ -1,6 +1,6 @@
 appName: emailservice
 appImage: docker.io/c0dysharma/emailservice
-appVersion: 2
+appVersion: 3
 appReplicas: 2
 containerPort: 8080
 containerEnvVars: 
